@@ -1,0 +1,6 @@
+{
+  "name": "Bintang Semesta Motor - Profil Perusahaan & Katalog Produk",
+  "description": "Website profil perusahaan dan katalog pengenalan produk resmi PT. Bintang Semesta Motor (PT. BSM) distributor suku cadang & pelumas motor terlengkap dengan CMS mandiri, analitik real-time, dan sistem keamanan admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
